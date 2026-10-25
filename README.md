@@ -18,7 +18,7 @@ Welcome to the official repository for my modern, animated software engineering 
 ## 👨‍💻 About Me
 - **Name:** Aditya
 - **Degree:** Master of Computer Applications (MCA) — Srusti Academy of Management (**CGPA: 8.19 / 10.0**)
-- **Professional Experience:** Software Engineer Intern at **Dotnet-Besant Technologies** (Jan 2026 – Sep 2026)
+- **Professional Experience:** Software Engineer Intern at **A2e Software and Consulting Pvt Ltd** (Jan 2026 – Sep 2026)
 - **Specialization:** Building robust, scalable enterprise web applications with **C#**, **ASP.NET Core Web API**, **Angular**, **Entity Framework Core (EF Core)**, and **Microsoft SQL Server**.
 
 ---
